@@ -3,13 +3,13 @@
   
   
 #  
-**Currently learning English and Microsoft Azure.**
+*Currently learning ***English*** and ***Microsoft Azure.****
 
-**Interested in PostgreSQL, vuejs, Spring Boot.** 
+*Interested in ***PostgreSQL, vuejs, Spring Boot.****
 
 
 
-***Had experience with:***
+**Had experience with:**
 
 <a href=""><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-64.png"/> 
 <a href=""><img height="50" src="https://cdn0.iconfinder.com/data/icons/programming-1-1/32/Programming_C-4-64.png"/> 
@@ -25,8 +25,12 @@
   
 
 **For more info:**
+
   
 <a href="https://www.linkedin.com/in/suay-akbudak-6b3b28183"><img height="50" src="https://user-images.githubusercontent.com/96923125/219902741-3b8dee68-6f19-4201-89e4-e5a820d2eb1f.png"/>
+  
+**Recruiters only :** *Feel free to ask me for access private projects.*
+
 
 
 
