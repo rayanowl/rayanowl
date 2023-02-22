@@ -3,11 +3,13 @@
   
   
 #  
-*Currently evolving herself about ***English, Programming*** and ***Microsoft Azure.****
+*Evolving herself about ***English, Programming*** and ***Microsoft Azure.****
 
 *Interested in ***Microsoft Azure, Cyber Security, Web Apps, Game Development****
 
 *Learning ***Azure Cosmos DB & Trigger, PostgreSQL, Vue.js, Spring Boot.****
+
+*Currently earning certificates from ***Microsoft****
 
 
 **Had experience with:**
