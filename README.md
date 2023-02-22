@@ -5,8 +5,8 @@
 #  
 *Currently learning ***English*** and ***Microsoft Azure.****
 
-*Interested in ***PostgreSQL, vuejs, Spring Boot.****
-
+*Interested in ***Microsoft Azure, Cyber Security, Web Apps, Game Development****
+*Trying ***PostgreSQL, vuejs, Spring Boot.****
 
 
 **Had experience with:**
