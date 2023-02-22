@@ -6,7 +6,8 @@
 *Currently learning ***English*** and ***Microsoft Azure.****
 
 *Interested in ***Microsoft Azure, Cyber Security, Web Apps, Game Development****
-*Trying ***PostgreSQL, vuejs, Spring Boot.****
+
+*Trying ***Azure Cosmos DB & Trigger, PostgreSQL, Vue.js, Spring Boot.****
 
 
 **Had experience with:**
@@ -24,7 +25,7 @@
   
   
 
-**For more info:**
+**For certificates and more:**
 
   
 <a href="https://www.linkedin.com/in/suay-akbudak-6b3b28183"><img height="50" src="https://user-images.githubusercontent.com/96923125/219902741-3b8dee68-6f19-4201-89e4-e5a820d2eb1f.png"/>
