@@ -3,11 +3,11 @@
   
   
 #  
-*Currently learning ***English*** and ***Microsoft Azure.****
+*Currently evolving herself about ***English, Programming*** and ***Microsoft Azure.****
 
 *Interested in ***Microsoft Azure, Cyber Security, Web Apps, Game Development****
 
-*Trying ***Azure Cosmos DB & Trigger, PostgreSQL, Vue.js, Spring Boot.****
+*Learning ***Azure Cosmos DB & Trigger, PostgreSQL, Vue.js, Spring Boot.****
 
 
 **Had experience with:**
