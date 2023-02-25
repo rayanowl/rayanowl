@@ -3,7 +3,7 @@
   
   
 #  
-*Evolving herself about ***English, Programming*** and ***Microsoft Azure.****
+*Upgraing herself about ***English, Programming*** and ***Microsoft Azure.****
 
 *Interested in ***Microsoft Azure, Cyber Security, Web Apps, Game Development****
 
